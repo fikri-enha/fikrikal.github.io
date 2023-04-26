@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "fikrikal.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\n\n\n\n\n\n\nthis is markdown\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/001-first-post/index.html",
+    "href": "posts/001-first-post/index.html",
+    "title": "this is markdown",
+    "section": "",
+    "text": "### this is new website\n\nfikri haykal personal website deploy in githup page"
+  }
+]
